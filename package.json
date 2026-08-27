@@ -1,0 +1,46 @@
+{
+  "name": "adones-theme",
+  "displayName": "Adones Theme",
+  "publisher": "dev-mhd-ali",
+  "description": "A custom dark theme for Visual Studio Code.",
+  "version": "0.0.2",
+  "icon": "images/icon.png",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Adones Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/adones-theme-color-theme.json"
+      },
+      {
+        "label": "Adones Cream",
+        "uiTheme": "vs-dark",
+        "path": "./themes/adones-cream-color-theme.json"
+      }
+    ]
+    },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muhammadalidev26-prog/adones-theme"
+  },
+  "homepage": "https://github.com/muhammadalidev26-prog/adones-theme#readme",
+
+  "bugs": {
+    "url": "https://github.com/muhammadalidev26-prog/adones-theme/issues"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "adones theme",
+    "green theme",
+    "good for eyes",
+    "cream",
+    "cream theme"
+  ]
+}
