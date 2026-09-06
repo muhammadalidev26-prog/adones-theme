@@ -22,6 +22,11 @@
         "label": "Adones Cream",
         "uiTheme": "vs-dark",
         "path": "./themes/adones-cream-color-theme.json"
+      },
+      {
+        "label": "Adones Theme Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/adones-theme-darker-color-theme.json"
       }
     ]
     },
