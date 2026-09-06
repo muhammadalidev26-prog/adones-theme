@@ -2,24 +2,25 @@
 
 All notable changes to the Adones Theme project will be documented in this file.
 
-## [0.0.2] — [27/8/2026]
+## [1.0.0] — [9/6/2026]
 
 ### Added
 
-* Added a new **Adones Cream** theme variant, providing a warmer alternative to the original Adones Theme.
+* Added a new **Adones Theme Darker** theme variant, providing a higher contrast alternative to the original Adones Theme.
 
 ### Changed
 
 * Refined the **Adones Theme** color palette.
-* Tweaked editor and interface background colors for a more balanced appearance.
+* Changed the colors of **Adones Theme** and **Adones Cream**.
 * Made small adjustments to various UI colors and theme elements.
 
 ### Notes
 
 * **Adones Theme** remains the darker variant.
-* **Adones Cream** is the newly introduced variant.
+* **Adones Cream** remains a lighter variant.
 * Tested with **HTML, CSS, and JavaScript**.
 
 ### Added
 
-* Initial release of **Adones Theme**.
+* Added new Theme Variant **Adones Theme Darker**.
+

@@ -3,7 +3,7 @@
   "displayName": "Adones Theme",
   "publisher": "dev-mhd-ali",
   "description": "A custom dark theme for Visual Studio Code.",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.85.0"
@@ -20,7 +20,7 @@
       },
       {
         "label": "Adones Cream",
-        "uiTheme": "vs-dark",
+        "uiTheme": "vs",
         "path": "./themes/adones-cream-color-theme.json"
       },
       {
