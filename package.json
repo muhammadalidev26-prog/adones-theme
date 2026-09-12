@@ -3,7 +3,7 @@
   "displayName": "Adones Theme",
   "publisher": "dev-mhd-ali",
   "description": "A custom dark theme for Visual Studio Code.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.85.0"
@@ -51,6 +51,7 @@
     "green theme",
     "good for eyes",
     "cream",
-    "cream theme"
+    "coffee",
+    "chocolate"
   ]
 }
