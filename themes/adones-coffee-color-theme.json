@@ -53,8 +53,8 @@
     "editorLineNumber.foreground": "#6E5B49",
     "editorLineNumber.activeForeground": "#EDE0CE",
 
-    "editorIndentGuide.background": "#3A2C21",
-    "editorIndentGuide.activeBackground": "#4F3D2C",
+    "editorIndentGuide.background1": "#3A2C21",
+    "editorIndentGuide.activeBackground1": "#4F3D2C",
 
     "editorWhitespace.foreground": "#4A3A2C",
 
