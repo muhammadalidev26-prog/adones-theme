@@ -2,6 +2,12 @@
 
 All notable changes to the Adones Theme project will be documented in this file.
 
+## [1.1.5] - [9/15/2026]
+
+- Fixed issues with themes. 
+- Kept ruling consistent across all four theme files.
+
+
 ## [1.1.1] - [9/15/2026]
 
 - Minor fix in Adones Theme

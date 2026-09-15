@@ -13,6 +13,13 @@ Adones comes in four variants:
 
 ---
 
+## Quick Preview
+#### I have bold text so yours might look a bit different.
+![Adones Preview GIF](images/adones.gif)
+
+---
+
+
 ## Preview
 
 ### Adones Theme

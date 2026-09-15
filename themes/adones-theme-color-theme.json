@@ -35,7 +35,7 @@
   "colors": {
     "foreground": "#B7C2BE",
 
-    "editor.background": "#21272b",
+    "editor.background": "#2D343A",
     "editor.foreground": "#B7C2BE",
 
     "editor.lineHighlightBackground": "#343C43",
@@ -238,13 +238,9 @@
   },
 
   "tokenColors": [
-
     {
       "name": "Comments",
-      "scope": [
-        "comment",
-        "punctuation.definition.comment"
-      ],
+      "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "foreground": "#838F89",
         "fontStyle": "italic"
@@ -485,11 +481,7 @@
 
     {
       "name": "Markup",
-      "scope": [
-        "markup.heading",
-        "markup.bold",
-        "markup.italic"
-      ],
+      "scope": ["markup.heading", "markup.bold", "markup.italic"],
       "settings": {
         "foreground": "#D6959A"
       }
@@ -510,9 +502,7 @@
 
     {
       "name": "Regular Expressions",
-      "scope": [
-        "string.regexp"
-      ],
+      "scope": ["string.regexp"],
       "settings": {
         "foreground": "#9AAAB0"
       }
@@ -520,10 +510,7 @@
 
     {
       "name": "Invalid",
-      "scope": [
-        "invalid",
-        "invalid.illegal"
-      ],
+      "scope": ["invalid", "invalid.illegal"],
       "settings": {
         "foreground": "#C96569"
       }
