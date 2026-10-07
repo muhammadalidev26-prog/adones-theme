@@ -350,8 +350,6 @@
         "entity.name.function",
         "support.function",
         "variable.function",
-        "meta.function",
-        "meta.function-call",
         "meta.definition.method",
         "entity.name.method"
       ],
@@ -416,7 +414,6 @@
     {
       "name": "Types",
       "scope": [
-        "storage.type",
         "support.type",
         "entity.name.type",
         "entity.name.class",
