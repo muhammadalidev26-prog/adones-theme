@@ -2,7 +2,7 @@
 
 All notable changes to the Adones Theme project will be documented in this file.
 
-## [1.1.6] - [11/23/2026]
+## [1.2.1] - [11/23/2026]
 
 - Added new theme variant (Adones Minimal Dark)
 
