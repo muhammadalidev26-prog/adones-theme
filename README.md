@@ -13,14 +13,13 @@ Adones comes in four variants:
 
 ---
 
-## Quick Preview
-#### I have bold text so yours might look a bit different.
-![Adones Preview GIF](images/adones.gif)
-
----
-
 
 ## Preview
+
+
+### Adones Minimal Dark ( Featured )
+
+![Adones Minimal Dark Preview](images/adones-minimal-dark.png)
 
 ### Adones Theme
 
@@ -54,96 +53,6 @@ Adones comes in four variants:
 
 ---
 
-## 🎨 The Variants
-
-### 🌿 Adones Theme
-
-**Best suited for:** Evening and nighttime coding.
-
-Adones Theme uses a deeper, muted background with green as an important part of its visual identity.
-
-The goal is to provide enough contrast for code to remain easy to read while avoiding the extremely high-contrast appearance found in many traditional dark themes.
-
-**Primary characteristics:**
-
-- Dark, muted background
-- Green-inspired interface elements
-- Soft syntax colors
-- Controlled contrast
-
----
-
-### ☕ Adones Cream
-
-**Best suited for:** Daytime coding.
-
-Adones Cream provides a lighter alternative while keeping the same overall design language as Adones Theme.
-
-Instead of using a pure white background, it uses a warmer cream-toned palette to make the interface feel softer and less stark.
-
-**Primary characteristics:**
-
-- Warm cream background
-- Muted interface colors
-- Clear but restrained syntax highlighting
-- Comfortable text contrast
-
----
-
-### 🌑 Adones Theme Darker
-
-**Best suited for:** Daytime or Nightime coding.
-
-Adones Theme Darker uses a deeper, darker background with green as an important part of its visual identity.
-
-The goal is to provide just enough contrast for code to remain easy to read while avoiding the extremely high-contrast appearance found in many traditional dark themes.
-
-**Primary characteristics:**
-
-- Dark background
-- Green-inspired interface elements
-- Higher Contrast syntax colors
-- Controlled contrast
-
----
-
-### 🫘 Adones Coffee
-
-**Best suited for:** Anyone who wants a warmer, cozier dark theme with a bit more punch than the original Adones Theme.
-
-Adones Coffee swaps the family's usual cool, green-leaning palette for a warm espresso-brown background with a coffee-shop inspired syntax palette — mocha, caramel, terracotta, olive, and dusty rose. It sits between "good for the eyes" and "cyberpunk neon": more contrast and hierarchy than the low-contrast originals, without leaning on bright, saturated colors.
-
-**Primary characteristics:**
-
-- Warm espresso-brown background
-- Coffee-inspired syntax palette (mocha, caramel, terracotta, olive, dusty rose)
-- Clear hierarchy between syntax roles
-- Moderate-to-higher contrast, still restrained
-
----
-
-## 🧠 Design Philosophy
-
-Adones was created around a simple idea:
-
-> **A good coding theme should help you focus on your code, not compete with it.**
-
-Many themes use a large number of highly saturated colors to make syntax immediately distinguishable.
-
-Adones takes a more restrained approach.
-
-The palette intentionally uses:
-
-- A small number of primary colors
-- Supporting colors where they provide useful distinction
-- Softer syntax highlighting
-- Muted backgrounds
-- Clear hierarchy between UI elements
-- Enough contrast for readability without making everything visually loud
-
-The goal is to create something that still feels beautiful after several hours of use.
-
----
 
 ## 📦 Installation
 
@@ -216,13 +125,5 @@ Copyright © 2026 Muhammad Ali
 Created by [Muhammad Ali](https://github.com/muhammadalidev26-prog).
 
 ---
-
-## 🌿 About Adones
-
-Adones is more than just a collection of colors.
-
-It is an attempt to create a coding environment that feels **calm, readable, and enjoyable to use every day**.
-
-Whether you're working during the morning with **Adones Theme Darker**, coding in the afternoon with **Adones Cream**, unwinding into a cozier session with **Adones Coffee**, or coding late into the evening with **Adones Theme**, the goal remains the same:
 
 **Write code. Stay focused. Let the theme stay out of the way.**
