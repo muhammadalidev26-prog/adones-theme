@@ -2,6 +2,10 @@
 
 All notable changes to the Adones Theme project will be documented in this file.
 
+## [1.2.2] - [11/24/2026]
+
+- Change the Adones Minimal Dark background to reduce contrast just a little bit to make it easier on eyes
+
 ## [1.2.1] - [11/23/2026]
 
 - Added new theme variant (Adones Minimal Dark)
